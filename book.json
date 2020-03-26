@@ -1,0 +1,33 @@
+{
+  "plugins": [
+      "back-to-top-button",
+      "chapter-fold",
+      "code",
+      "splitter",
+      "-lunr",
+      "-search",
+      "search-pro",
+      "insert-logo",
+      "popup",
+      "-sharing",
+      "sharing-plus"
+  ],
+  "pluginsConfig": {
+      "insert-logo": {
+          "url": "https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/fe_wiki_logo.png",
+          "style": "background: none; max-height: 50px; min-height: 50px;border-radius: 50%"
+      },
+      "sharing": {
+          "douban": true,
+          "qq": true,
+          "qzone": true,
+          "weibo": true,
+          "all": [
+              "douban",
+              "weibo",
+              "qq",
+              "qzone"
+          ]
+      }
+  }
+}
