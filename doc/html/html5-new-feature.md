@@ -3,12 +3,12 @@
 
 ## 1. DOCTYPE 声明
 
-`&lt;!DOCTYPE&gt;`只是一个说明，用来告诉浏览器当前的html页面是用什么版本的html写的。
+`<!DOCTYPE>`只是一个说明，用来告诉浏览器当前的html页面是用什么版本的html写的。
 
 html5 中的 `DOCTYPE` 声明只需要一段。
 
 ```html
-<!DOCTYPE html>;
+<!DOCTYPE html>
 ```
 
 而 html4 中的声明引用了DTD（document type define），因为 html4.01 是基于 SGML 的，而它引用的 DTD 指明了 html 的规则，从而浏览器能正确的渲染页面。而 html5 不是基于 SGML 所以不需要引用 DTD。
@@ -65,7 +65,7 @@ html 5 新增了一些 input 的类型和属性，对表单有一个增强。
 | week           | required         |
 |                | step             |
 |                | mutiple          |
-|                |                  |
+
 
 ## 4. 图形标签
 
