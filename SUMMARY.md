@@ -5,6 +5,7 @@
     * [HTML5 新特性](doc/html/html5-new-feature.md)
     * [src 和 href 属性的区别](doc/html/diff-between-src-href.md)
     * [script 标签中 defer 和 async 的区别](doc/html/diff-between-async-defer.md)
+    * [Element 和 Node 的区别](doc/html/element-vs-node.md)
 * [JavaScript](doc/javascript.md)
     * [JavaScript](doc/javascript/javascript1.md)
 * [计算机网络](doc/computer-network.md)
